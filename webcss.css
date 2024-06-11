@@ -1,0 +1,67 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    height: 2000px;
+
+}
+h1
+{
+
+    color:black;
+    text-align: center;
+}
+image{
+    padding-left: 0cap;
+}
+.page {
+ background-color: lightgray;
+ padding: inherit;
+}
+.mybutton{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.mybutton button{
+    background-color:  #F2a300;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+}
+.firstname{
+color: rgb(14, 14, 15) ;
+font-weight: bold;
+border: none;
+}
+.firstname text{
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: medium; 
+  border: none; 
+}
+.head1{
+
+    text-align: center;
+    font-size: large;
+    text-size-adjust: 50%;
+    border: none;
+}
+.form1{
+padding-right: 5opx;
+border: none;
+}
+.email{
+    padding: center;
+border: none;
+
+}
+.programs{
+    padding: center;   
+}
+.password{
+    padding-left:35px;
+}
+
